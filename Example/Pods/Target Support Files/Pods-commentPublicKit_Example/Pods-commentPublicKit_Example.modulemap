@@ -1,0 +1,6 @@
+framework module Pods_commentPublicKit_Example {
+  umbrella header "Pods-commentPublicKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

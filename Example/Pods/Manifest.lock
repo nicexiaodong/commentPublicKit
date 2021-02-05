@@ -1,0 +1,16 @@
+PODS:
+  - commentPublicKit (0.1.0)
+
+DEPENDENCIES:
+  - commentPublicKit (from `../`)
+
+EXTERNAL SOURCES:
+  commentPublicKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  commentPublicKit: 041d8e67ff1a8bed605cda4738d7216dfb0a3be6
+
+PODFILE CHECKSUM: f63623bc6b1c1b73a9a03bd97cf82524ccae2498
+
+COCOAPODS: 1.10.0

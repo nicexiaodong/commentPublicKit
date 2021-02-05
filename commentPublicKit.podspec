@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'commentPublicKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of commentPublicKit.'
+  s.summary          = 'commentPublicKit 初始化'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/3397838812@qq.com/commentPublicKit'
+  s.homepage         = 'https://github.com/nicexiaodong/commentPublicKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '3397838812@qq.com' => '3397838812@qq.com' }
-  s.source           = { :git => 'https://github.com/3397838812@qq.com/commentPublicKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nicexiaodong/commentPublicKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

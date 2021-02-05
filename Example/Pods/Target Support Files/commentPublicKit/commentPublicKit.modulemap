@@ -1,0 +1,6 @@
+framework module commentPublicKit {
+  umbrella header "commentPublicKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
